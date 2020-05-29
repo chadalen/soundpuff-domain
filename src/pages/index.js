@@ -9,7 +9,7 @@ const IndexPage = () => (
     <h1>
       Soundpuff.com
     </h1>
-    <h2>For sale!</h2>
+    <h2>For sale!!!</h2>
     <h3>Contact: <a href="mailto:me@chadalen.com">me@chadalen.com</a></h3>
     </div>
 
