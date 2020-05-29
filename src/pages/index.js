@@ -10,13 +10,13 @@ const IndexPage = () => (
       Soundpuff.com
     </h1>
     <h2>For sale!</h2>
+    <h3>Contact: <a href="mailto:me@chadalen.com">me@chadalen.com</a></h3>
     </div>
 
 
   <style jsx>{`
-  .content {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 900;
+  .content {  
+    font-family: "Comic Sans MS", cursive, sans-serif
   }
   `}
   </style>
